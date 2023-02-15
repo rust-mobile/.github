@@ -17,7 +17,7 @@ The hope is that this organisation can help foster collaboration, so we can addr
 
 # Join us, we have cookies 🍪
 
-If you have a Rust crate that's primarily aimed at mobile app development we invite you to open an issue [here](https://github.com/rust-mobile/.github/issues) to discus re-homing here.
+If you have a Rust crate that's primarily aimed at mobile app development we invite you to open an issue [here](https://github.com/rust-mobile/.github/issues) to discuss re-homing here.
 
 Alternatively open an issue against your own repo to discuss and poke me (@rib) or any of the other org owners here: https://github.com/orgs/rust-mobile/people
 
