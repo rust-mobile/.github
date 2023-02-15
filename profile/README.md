@@ -5,7 +5,7 @@ While looking at [modularizing](https://github.com/rust-mobile/ndk/issues/372) t
 The general motivation for this was:
 
 1. To help make smaller utility crates a little easier to discover
-2. More easily share ideas / patterns between crates where it makes sense. E.g. use the organisaiton discussion boards to solicit feedback from developers working on related crates.
+2. More easily share ideas / patterns between crates where it makes sense. E.g. use the [organization discussion boards](https://github.com/orgs/rust-mobile/discussions) to solicit feedback from developers working on related crates.
 3. Help share the maintenance burden if wanted (E.g. in case someone no longer has the time / bandwidth / interest to work on a crate)
 
 Thinking about Android specifically we can see that there are some cross-cutting issues that we haven't got good answers for yet, including:
